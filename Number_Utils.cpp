@@ -1,6 +1,11 @@
 // Number_Utils.cpp : Defines the entry point for the console application.
 //
 
+//Purpose: 1. Tells whether a entered number is a prime or not
+	  // 2. If not, lists out all its factors and in addition
+	  // 3. Gives the next closest prime to the entered number
+// Might come handy when designing a Hash function to choose a prime according to the size of the input that you are working with.
+
 #include "stdafx.h"
 #include <iostream>
 #include <vector>
