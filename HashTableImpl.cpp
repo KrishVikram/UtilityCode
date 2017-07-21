@@ -1,5 +1,7 @@
 
-
+// A dictionary implemented using hashtable in C++. 
+// Contains only few words, to make it fully functional, place word-meanings in a file, iterate over every word, insert it and it's meaning and y
+// you should be good to go with your own mini dictionary, cheers!
 
 #include "stdafx.h"
 #include <iostream>
